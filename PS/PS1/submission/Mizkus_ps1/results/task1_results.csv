@@ -1,0 +1,4 @@
+Algorithm,Visited,Cost
+Dijkstra,6493,158
+A* h=0,6493,158
+A* L1,2788,158

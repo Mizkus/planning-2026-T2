@@ -1,0 +1,4 @@
+Algorithm,Visited,Cost
+Dijkstra,16315,164
+A* L1,8665,164
+A* L1 + angle,8496,164
